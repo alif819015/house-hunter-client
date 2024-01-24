@@ -1,8 +1,9 @@
+import HouseList from "../HouseList";
 
 const Home = () => {
     return (
         <div>
-           home 
+           <HouseList />
         </div>
     );
 };
